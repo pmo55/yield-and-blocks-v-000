@@ -5,5 +5,6 @@ yield(array[i])
 i+=1
 end
 array
+else puts "Hey no blocks given!"
 end
 
